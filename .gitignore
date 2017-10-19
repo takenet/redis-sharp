@@ -6,3 +6,4 @@ obj
 _ReSharper.*
 *.userprefs
 *.pidb
+/.vs/RedisSharp/v15/sqlite3
